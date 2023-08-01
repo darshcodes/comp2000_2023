@@ -12,11 +12,18 @@ Take a look at the two repositories:
 And answer the following questions about them:
 
   * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
+  both websites are good hosts for version control which allow you to work on projects together and collaboratively which teach stuff like
   * Who made the last commit to repository A?
+  Mathew roberts
   * Who made the first commit to repository A?
+  Jon Mountjoy
   * Who made the first and last commits to repository B?
+  Dave pearce for both
   * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened?
+  No, the project could have been completed or they started working on a new release of the product or software.
   * 🤔 Which file in each project has had the most activity?
+  
+
 
 # Task 2
 
